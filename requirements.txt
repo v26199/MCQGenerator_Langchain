@@ -1,0 +1,7 @@
+openai
+langchain
+streamlit
+python -dotenv
+PyPDF2
+
+-e . # install the package in editable mode
