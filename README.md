@@ -15,7 +15,7 @@ This project utilizes Langchain's OpenAI API, specifically the GPT-3 model, to a
 ---
 ## Setup Instructions
 #### 1. Clone the repository to your local machine.
-git clone <repository_url>
+https://github.com/v26199/MCQGenerator_Langchain.git
 
 #### 2. Install the required dependencies.
 pip install -r requirements.txt
